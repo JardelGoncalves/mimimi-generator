@@ -1,4 +1,4 @@
-# App MIMIMI GENERATOR
+# APP MIMIMI GENERATOR
 simples app gerador de mimimi
 
 ## Protótipo
